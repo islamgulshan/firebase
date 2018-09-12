@@ -1,6 +1,6 @@
 <html>
 <head>
- <title>Firebase Realtimesasasadasdasc Database Web</title>
+ <title>Firebase  code change</title>
 <script src="https://www.gstatic.com/firebasejs/5.4.2/firebase.js"></script>
 <script>
   // Initialize Firebase
